@@ -1,0 +1,14 @@
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\bin\Debug\net8.0\Number1.2Console.exe
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\bin\Debug\net8.0\Number1.2Console.deps.json
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\bin\Debug\net8.0\Number1.2Console.runtimeconfig.json
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\bin\Debug\net8.0\Number1.2Console.dll
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\bin\Debug\net8.0\Number1.2Console.pdb
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\obj\Debug\net8.0\Number1.2Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\obj\Debug\net8.0\Number1.2Console.AssemblyInfoInputs.cache
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\obj\Debug\net8.0\Number1.2Console.AssemblyInfo.cs
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\obj\Debug\net8.0\Number1.2Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\obj\Debug\net8.0\Number1.2Console.dll
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\obj\Debug\net8.0\refint\Number1.2Console.dll
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\obj\Debug\net8.0\Number1.2Console.pdb
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\obj\Debug\net8.0\Number1.2Console.genruntimeconfig.cache
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number1.2Console\Number1.2Console\obj\Debug\net8.0\ref\Number1.2Console.dll
